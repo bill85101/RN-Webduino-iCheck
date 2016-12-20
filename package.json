@@ -1,0 +1,20 @@
+{
+    "name": "webduino-icheck",
+    "description": "webduino RFID for Azure mysql",
+    "version": "1.0.0",
+    "homepage": "https://github.com/bill85101/RN-Webduino-iCheck",
+    "bugs": {
+        "url": "https://github.com/bill85101/RN-Webduino-iCheck/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bill85101/RN-Webduino-iCheck.git"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": "*",
+        "mysql":"2.12.0",
+        "webduino-js": "*",
+        "dotenv": "*"
+    },
+    "license": "MIT"
+}
